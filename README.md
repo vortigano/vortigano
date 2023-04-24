@@ -1,10 +1,15 @@
-## ¡Hola, soy Martín! 
 
+  ## ¡Hola, soy Martín!
+  
 <div align="center">
 
-<a href="https://github.com/vortigano">
+
+
+  <a href="https://github.com/vortigano">
   
-  <img height="140" src="https://github-readme-stats.vercel.app/api?username=vortigano&custom_title=%20Vorti%27s%20Github%20Stats&show_icons=true&theme=transparent&bg_color=ff000000&include_all_commits=true&count_private=true&hide=issues,contribs,prs,stars,[]&hide_rank=true"/>
+  <img height="200" src="https://github-readme-stats-vortigano.vercel.app/api/top-langs/?username=vortigano&custom_title=%20Languages%20&layout=compact&langs_count=8&theme=github_dark"/>
+  
+  <img height="200" src="https://github-readme-stats-vortigano.vercel.app/api?username=vortigano&custom_title=%20Vorti%27s%20Github%20Stats&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide=issues,contribs,[]&hide_rank=false"/>
 
 </div>
   

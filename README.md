@@ -6,9 +6,9 @@
 
 <a href="https://github.com/vortigano">
   
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vortigano&layout=compact&langs_count=6&theme=transparent"/>
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vortigano&custom_title=%20Languages%20&layout=compact&langs_count=8&theme=transparent"/>
   
-  <img src="https://github-readme-stats.vercel.app/api?username=vortigano&show_icons=true&theme=transparent&bg_color=00000000&include_all_commits=true&count_private=true&hide=issues"/>
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=vortigano&custom_title=%20Vorti%27s%20Github%20Stats&show_icons=true&theme=transparent&bg_color=00000000&include_all_commits=true&count_private=true&hide=issues"/>
   
 </div>
 

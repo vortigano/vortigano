@@ -15,6 +15,9 @@ Soy un técnico electrónico aficionado al desarrollo de videojuegos.
   
 <sub> * El lenguaje reportado como "xBase" enrealidad es el lenguaje Gemix:</sub> [<sub>Sitio</sub>](http://www.gemixstudio.com/forums/) <sub>|</sub> [<sub>Wikipedia</sub>](https://es.wikipedia.org/wiki/Gemix_Studio)
   
+## Conctacto 
+  
+  <a  href = "mailto: vortigano@outlook.com.ar"><img src="https://img.shields.io/badge/-Outlook-0078D4?style=plastic&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   
 <div align="center">
 

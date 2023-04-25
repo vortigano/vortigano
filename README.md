@@ -13,7 +13,7 @@ Soy un técnico electrónico aficionado al desarrollo de videojuegos.
     
 </div>
   
-<sub> * El lenguaje reportado como "xBase" enrealidad es el lenguaje Gemix:</sub> [<sub>Sitio</sub>](http://www.gemixstudio.com/forums/) | [<sub>Wikipedia</sub>](https://es.wikipedia.org/wiki/Gemix_Studio)
+<sub> * El lenguaje reportado como "xBase" enrealidad es el lenguaje Gemix:</sub> [<sub>Sitio</sub>](http://www.gemixstudio.com/forums/) <sub>|</sub> [<sub>Wikipedia</sub>](https://es.wikipedia.org/wiki/Gemix_Studio)
   
   
 <div align="center">

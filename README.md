@@ -20,7 +20,8 @@ Soy un técnico electrónico aficionado al desarrollo de videojuegos.
   <a  href = "mailto: vortigano@outlook.com.ar"><img src="https://img.shields.io/badge/-Outlook-0078D4?style=plastic&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   
 <div align="center">
-
-  ![Snake animation](https://github.com/vortigano/vortigano/blob/output/github-contribution-grid-snake-dark.svg)
-  
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/vortigano/vortigano/blob/output/github-contribution-grid-snake-dark.svg">
+    <img src="https://github.com/vortigano/vortigano/blob/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>

@@ -7,9 +7,9 @@ Soy un técnico electrónico aficionado al desarrollo de videojuegos.
 
   <a href="https://github.com/vortigano">
   
-  <img height="200" src="https://github-readme-stats-neon-eight-95.vercel.app/api/top-langs/?username=vortigano&custom_title=%20Lenguajes%20&layout=compact&langs_count=6&theme=github_dark&hide_border=true&locale=es&size_weight=0.5&count_weight=0.5"/>
+  <img height="180" src="https://github-readme-stats-neon-eight-95.vercel.app/api/top-langs/?username=vortigano&custom_title=%20Lenguajes%20&layout=compact&langs_count=6&theme=github_dark&hide_border=true&locale=es&size_weight=0.5&count_weight=0.5"/>
   
-  <img height="200" src="https://github-readme-stats-neon-eight-95.vercel.app/api?username=vortigano&custom_title=%20Estadísticas%20&show_icons=true&theme=github_dark&include_all_commits=false&count_private=true&hide=issues,contribs,[]&hide_rank=true&card_width=340&hide_border=true&locale=es"/>
+  <img height="180" src="https://github-readme-stats-neon-eight-95.vercel.app/api?username=vortigano&custom_title=%20Estadísticas%20&show_icons=true&theme=github_dark&include_all_commits=false&count_private=true&hide=issues,contribs,[]&hide_rank=true&card_width=340&hide_border=true&locale=es"/>
     
 </div>
   

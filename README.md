@@ -21,7 +21,11 @@ Soy un técnico electrónico aficionado al desarrollo de videojuegos.
   
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/vortigano/vortigano/blob/output/github-contribution-grid-snake-dark.svg">
-    <img src="https://github.com/vortigano/vortigano/blob/output/github-contribution-grid-snake.svg">
-  </picture>
+  <!-- Fuente de imagen para el modo oscuro -->
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/vortigano/vortigano/blob/output/github-contribution-grid-snake-dark.svg">
+  <!-- Fuente de imagen para el modo claro -->
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/vortigano/vortigano/blob/output/github-contribution-grid-snake.svg">
+  <!-- Imagen por defecto -->
+  <img src="https://github.com/vortigano/vortigano/blob/output/github-contribution-grid-snake.svg" alt="Contribution Grid Snake">
+</picture>
 </div>

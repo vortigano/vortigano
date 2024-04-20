@@ -1,5 +1,5 @@
 
-## ¡Hola!, soy Martín. Me conocen como Vortigano.
+## ¡Hola!, soy Martín.
   
 Soy un técnico electrónico aficionado al desarrollo de videojuegos.
 

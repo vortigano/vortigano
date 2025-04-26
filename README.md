@@ -2,7 +2,7 @@
 
 **Soy un técnico electrónico** aficionado al desarrollo de videojuegos, actualmente estudiante en el [*Instituto Superior de Profesorado Técnico (INSPT-UTN)*](https://inspt.utn.edu.ar). El **software de bajo nivel** y el **desarrollo de videojuegos** son mi pasión, disfruto mucho aprender, ayudar, colaborar y crear proyectos relacionados con ellos.
 
-**Mi repositorio es como yo soy**: nada formal, pero auténtico y libre, y sí me esfuerzo por cumplir **estándares y convenciones** cuando el proyecto es colaborativo. No busco ni persigo desesperadamente obtener un trabajo gracias a estos repositorios; lo veo más como un reflejo de mi **proceso de aprendizaje** y mi **evolución personal**, y si esto sirve de motivación a alguien más, **¡mi día está hecho!!!!** 😎
+**Mi repositorio es como yo soy**: nada formal, pero auténtico y libre, y sí me esfuerzo por cumplir **estándares y convenciones** cuando el proyecto es colaborativo. No busco ni persigo desesperadamente obtener un trabajo gracias a estos repositorios; lo veo más como un reflejo de mi **proceso de aprendizaje** y mi **evolución personal**, y si esto sirve de motivación a alguien más, **mi día está hecho!!!!** 😎
 
 
 <div align="center">
